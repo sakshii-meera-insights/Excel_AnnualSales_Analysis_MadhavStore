@@ -1,0 +1,24 @@
+# Excel_AnnualSales_Analysis_MadhavStore
+This project presents an annual sales analysis dashboard for Madhav Store,
+designed to track overall business performance and identify key sales trends across different regions and products.
+
+# Tool Used
+Excel - Data cleaning, Pivot Tables and Data Visualization.
+
+# Key Insights
+1.Women are more likely to buy compared to men ( 64 %).
+ 2.Maharashtra   is the leading state followed by Karnatka and Uttar Pradesh.
+3. Adult age group ( 30 - 49 yrs ) is max contributig.
+4. Amazon , Flipkart and Myntra Together accounted for 80% of total orders.
+5. Sets were the best selling product category. ( 50 % of  total sales)
+6. Blouse and Ethnic Dress showed lower demand compared to other Category.
+
+# Feature
+Interactive Dasshboard with filter for better analysis.
+Visual Representation of KPIs
+Easy to Understand charts for business decision making
+
+# Conclusion
+We can Target Women customers of age group ( 30 -49 yrs ) living in Maharashtra , Karnatka and Uttar Pradesh by showing ads/offers/ coupons available on Amazon, Flipkart and Myntra.
+
+
