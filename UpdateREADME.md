@@ -1,3 +1,6 @@
+## 📸 Dashboard Previe
+<img width="1300" height="1100" alt="madav_sales_dashboard" src="https://github.com/user-attachments/assets/8c795488-8487-4f3c-9134-8baeea0c2fe8" />
+
 # Excel_AnnualSales_Analysis_MadhavStore
 This project presents an annual sales analysis dashboard for Madhav Store,
 <br>
